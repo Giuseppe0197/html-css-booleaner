@@ -67,11 +67,11 @@ tbody {
     background-color: white;
 }
 
-footer {
-    background-image: url(../img/monitor.jpg), url(../img/graph.jpg);
+#immagine-sfondo-uno {
+    background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     width: 300px;
-    height: 300px;
+    height: 250px;
     margin-top: 15px;
 }
 
@@ -84,8 +84,7 @@ footer {
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     width: 300px;
-    height: 300px;
-    margin-top: 200px;
+    height: 250px;
 }
 
 #titolo-immagine-due {
