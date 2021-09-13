@@ -34,3 +34,35 @@ h3 {
     font-weight: bold;
     color: rgb(150, 148, 148);
 }
+
+#paragrafo-uno {
+    margin-top: 0;
+}
+
+.evidenziatore {
+    color: black;
+    background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 30px 0;
+}
+
+thead {
+    background-color: rgb(94, 94, 255);
+    color: white;
+}
+
+th {
+    width: 500px;
+    text-align: left;
+}
+
+tbody {
+    background-color: lightskyblue;
+}
+
+#riga-due {
+    background-color: white;
+}
